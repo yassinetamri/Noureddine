@@ -22,7 +22,7 @@ header{
     width:150px;
     height:150px;
     position:absolute;
-    background:#ABEBC6;
+    background:#FFF;
     margin:-78px auto;
     padding:10px;
     border:8px solid #EFEFEF;
@@ -42,7 +42,7 @@ li{
     display:inline-block;
     padding:3px 7px 3px 7px;
     margin-bottom:5px;
-    background:#808000;
+    background:#86B82F;
     color:#FFFFFF;
     font-size:12px;
 }
@@ -87,7 +87,7 @@ h1{
 h3{
     font-size:17px;
     font-weight:600;
-    color:black;
+    color:#CD5C5C;
     margin-bottom:16px;
 }
 section{
@@ -106,9 +106,9 @@ h4{
 .progbar{
     height:25px;
     line-height:25px;
-    background:#ABEBC6;
+    background:#86B82F;
     margin-bottom:10px;
-    color:#FFF;
+    color:black;
     text-align:right;
     padding:0 10px 0 10px;
 }
